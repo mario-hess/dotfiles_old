@@ -1,4 +1,4 @@
-Fonts: MonoLisa, Feathers, Ioveska Nerd
+Fonts: MonoLisa, Ubuntu, Feathers, Ioveska Nerd
 
 ![Screenshot1](https://i.redd.it/ykhw5r7zjxy81.png)
 
